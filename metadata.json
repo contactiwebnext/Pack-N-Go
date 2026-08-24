@@ -1,0 +1,7 @@
+{
+  "name": "Pack N Go",
+  "description": "Luggage and travel-bag retailer with a physical store at San Francisco International Airport (SFO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
